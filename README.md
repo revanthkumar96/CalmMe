@@ -31,5 +31,10 @@ Introduction:
  embeddings, facilitating efficient similarity search and information retrieval.
  ix. Gradio: This library allows you to create user interfaces for machine learning models, enabling users to easily interact
  with and test your models through web-based interfaces without complex code. It simplifies deployment and demo creation.
+
+ Flow diagram
+ 
  ![codetoflow (1)](https://github.com/user-attachments/assets/c1853f55-93ff-4f08-a562-aa810e33f65e)
+
+ demo
 ![Screenshot 2025-02-14 104612](https://github.com/user-attachments/assets/4146fe0d-7f45-46e7-b730-a4542b0ba340)
