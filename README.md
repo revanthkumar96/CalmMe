@@ -8,7 +8,9 @@ Introduction:
  techniques, and coping strategies tailored to their unique needs.
  While not a replacement for professional therapy, mental health chatbots serve as accessible resources for
  those looking to enhance their emotional resilience and maintain mental health in their daily lives.
-  TECHNOLOGIES USED
+ 
+ 
+ TECHNOLOGIES USED
  i. LangChain_groq: this library provides tools for integrating Groq, a declarative query language for JSON, with LangChain
  framework for building large language model (LLM) applications. It allows users to interact with Groq databases and use
  Groq queries within LangChain workflows.
