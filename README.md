@@ -1,5 +1,6 @@
 # CalmMe
 Introduction:
+
  CalmMe is an innovative tool that leverages artificial intelligence to offer emotional support and
  guidance for individuals seeking to improve their mental well-being.
  These virtual assistants are designed to provide users with a safe, non-judgmental space to express their
@@ -11,6 +12,7 @@ Introduction:
  
  
  TECHNOLOGIES USED
+ 
  i. LangChain_groq: this library provides tools for integrating Groq, a declarative query language for JSON, with LangChain
  framework for building large language model (LLM) applications. It allows users to interact with Groq databases and use
  Groq queries within LangChain workflows.
