@@ -34,7 +34,18 @@ Introduction:
 
  Flow diagram
  
- ![codetoflow (1)](https://github.com/user-attachments/assets/c1853f55-93ff-4f08-a562-aa810e33f65e)
+ ![CalmMe flow chart](https://github.com/user-attachments/assets/faa8d187-30e2-4f9d-82e2-79e85699cf3e)
 
- demo
-![Screenshot 2025-02-14 104612](https://github.com/user-attachments/assets/4146fe0d-7f45-46e7-b730-a4542b0ba340)
+ initial interface
+ ![Screenshot 2025-02-18 182119](https://github.com/user-attachments/assets/3402a16f-b213-41a9-8727-5334c4a8f864)
+
+ after a while
+ text
+ ![Screenshot 2025-02-18 191336](https://github.com/user-attachments/assets/af1c0140-1340-4909-8a4c-2b84231eb989)
+ audio
+ ![Screenshot 2025-02-18 191534](https://github.com/user-attachments/assets/b6e5fc27-b95f-4e2a-ad73-f8b97cc58799)
+
+
+ 
+
+
